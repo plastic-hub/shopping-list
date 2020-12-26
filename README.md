@@ -1,2 +1,1 @@
-# shopping-lilst
-2021Q1
+# shopping-list 2021Q1
