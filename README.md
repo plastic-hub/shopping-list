@@ -52,6 +52,7 @@
 - [Rotary](https://www.machinio.com/welding-equipment?page=4#quickview/39377679)
 - [Rotary - 2k](https://www.machinio.com/welding-equipment?page=12#quickview/47987949)
 - [Kuka - Cell - BCN 2005](https://www.machinio.com/welding-equipment#quickview/51184510)
+- [ ][Table & system](https://www.siegmund.com/es/Mesa-con-ranuras-hexagonales,6622.php)
 
 ### Testing/Lab
 
