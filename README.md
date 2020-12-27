@@ -37,10 +37,16 @@
 
 ## Basics
 
+### Welding
+
+- [Rotary](https://www.machinio.com/welding-equipment?page=4#quickview/39377679)
+- [Rotary - 2k](https://www.machinio.com/welding-equipment?page=12#quickview/47987949)
+- [Kuka - Cell - BCN 2005](https://www.machinio.com/welding-equipment#quickview/51184510)
+
+### Testing/Lab
+
+- [Pacific Precision stage 6''](https://www.machinio.com/cobra/general-analytical-equipment#quickview/49800893)
+
+
 ### Tapping
-
-
-
-
-
 
