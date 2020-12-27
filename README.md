@@ -35,6 +35,12 @@
 
 ### Laser
 
+### Bending machines
+
+- [BCN - RICO PRCN 30160](https://www.machinio.com/bending?page=2#quickview/43132744)
+- [BCN - complete with tooling](https://www.machinio.com/bending?page=3#quickview/51853303)
+- [BCN - Tube bender, CURVATRICI SE4](https://www.machinio.com/bending?page=3#quickview/42932387)
+
 ## Basics
 
 ### Welding
