@@ -34,6 +34,10 @@
 - [HT100d - 3k$](https://www.machinio.com/plasma-cutters#quickview/46345767)
 - [Table, new](https://www.surplex.com/en/m/unich-lxp-1530-cnc-plasma-cutting-machine-623161.html?utm_campaign=auction-feed&utm_source=machinio&utm_medium=referral)
 
+### Cutters
+
+- [DE, SK 40 Set](https://www.machineseeker.es/hahn+%26+kolb-sk+40/i-4087977)
+
 ### Laser
 
 ### Bending machines
