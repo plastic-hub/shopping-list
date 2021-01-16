@@ -7,10 +7,12 @@
 - [-] [ES - 2008 MORI SEIKI NL 2500Y/700 CNC Lathe](https://www.machinio.com/cnc-lathes#quickview/49629152) 
 - [BCN - 2011 CNC LATHE CMZ TC 25 Y – FANUC 32 i](https://www.machinio.com/cnc-lathes#quickview/43365172)
 - [Deba Mori Seiki SL 1500/500](https://www.machinio.com/cat/cnc-tornos#quickview/44450209)
-- [BCN, MUPEM WIN 6500 8 AXIS ](https://www.machinio.com/listings/51030037)
+- [ ][BCN, MUPEM WIN 6500 8 AXIS ](https://www.machinio.com/listings/51030037)
 - [Madrid HYUNDAI KIA SKT 250LM](https://www.machinio.com/listings/49892508)
 
 ### Toolroom CNC mill vertical
+
+- [ ] [CH, Schaeubling 53N - Good condition](https://www.machineseeker.es/schaublin-53n/i-4896627)
 
 ### EDM
 
@@ -50,20 +52,20 @@
 
 ### Handling
 
-- [BCN, Crane - 8T](https://www.machinio.com/overhead-cranes#quickview/29088727)
+- [ ][BCN, Crane - 8T](https://www.machinio.com/overhead-cranes#quickview/29088727)
 
 ### Welding
 
 - [Rotary](https://www.machinio.com/welding-equipment?page=4#quickview/39377679)
 - [Rotary - 2k](https://www.machinio.com/welding-equipment?page=12#quickview/47987949)
 - [Kuka - Cell - BCN 2005](https://www.machinio.com/welding-equipment#quickview/51184510)
-- [ ][Table & system](https://www.siegmund.com/es/Mesa-con-ranuras-hexagonales,6622.php)
-- [ ][Table & System, 1-3k, CH-ALI](https://spanish.alibaba.com/product-detail/3d-welding-table-plate-with-fixture-made-in-china-for-sale-60793866677.html?spm=a2700.md_es_ES.deiletai6.9.103e39cdS1ktgh)
+- [x][Table & system](https://www.siegmund.com/es/Mesa-con-ranuras-hexagonales,6622.php)
+- ~~[ ][Table & System, 1-3k, CH-ALI](https://spanish.alibaba.com/product-detail/3d-welding-table-plate-with-fixture-made-in-china-for-sale-60793866677.html?spm=a2700.md_es_ES.deiletai6.9.103e39cdS1ktgh)~~
 
 
 ### Testing/Lab
 
-- [Pacific Precision stage 6''](https://www.machinio.com/cobra/general-analytical-equipment#quickview/49800893)
+- ~~[Pacific Precision stage 6''](https://www.machinio.com/cobra/general-analytical-equipment#quickview/49800893)~~
 
 
 ### Tapping
