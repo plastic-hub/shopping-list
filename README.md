@@ -10,7 +10,8 @@
 - [ ][BCN, MUPEM WIN 6500 8 AXIS ](https://www.machinio.com/listings/51030037)
 - [Madrid HYUNDAI KIA SKT 250LM](https://www.machinio.com/listings/49892508)
 - [ ] [CAT-TORNO CMZ TBI-520 CNC FANUC](https://maquinariacarandell.weebly.com/uploads/1/1/8/4/118431239/torno_bancada_inclinada_cmz_tbi-520.pdf)
-- [ ] [CAT-New Supplier](https://maquinariacarandell.weebly.com/torno-p-cnc.html | SY lathes)
+- [ ] [CAT-New Supplier](https://maquinariacarandell.weebly.com/torno-p-cnc.html) (SY lathes) | ([CPL SY Specs](https://maquinariacarandell.weebly.com/uploads/1/1/8/4/118431239/_e__11_cpl-mc-y-sy_170821_.pdf))
+
 
 ### Lathe Misc
 
