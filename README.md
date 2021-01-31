@@ -9,6 +9,8 @@
 - [Deba Mori Seiki SL 1500/500](https://www.machinio.com/cat/cnc-tornos#quickview/44450209)
 - [ ][BCN, MUPEM WIN 6500 8 AXIS ](https://www.machinio.com/listings/51030037)
 - [Madrid HYUNDAI KIA SKT 250LM](https://www.machinio.com/listings/49892508)
+- [ ] [CAT-TORNO CMZ TBI-520 CNC FANUC](https://maquinariacarandell.weebly.com/uploads/1/1/8/4/118431239/torno_bancada_inclinada_cmz_tbi-520.pdf)
+- [ ] [CAT-New Supplier](https://maquinariacarandell.weebly.com/torno-p-cnc.html | SY lathes)
 
 ### Lathe Misc
 
@@ -17,6 +19,10 @@
 ### Toolroom CNC mill vertical
 
 - [ ] [CH, Schaeubling 53N - Good condition](https://www.machineseeker.es/schaublin-53n/i-4896627)
+
+### Catalonia Traders
+
+- [ ] Manual mill, 3.5k [https://www.milanuncios.com/otros-motor/fresadora-lagun-fu1-con-digitales-311154196.htm](https://www.milanuncios.com/otros-motor/fresadora-lagun-fu1-con-digitales-311154196.htm)
 
 ### EDM
 
