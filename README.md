@@ -14,7 +14,7 @@
 
 ### Lathe Misc
 
-- [ ] Chuck - [Supplier](https://www.hainbuch.com/)
+- [ ] Chuck - [Supplier](https://www.hainbuch.com/) [PDF](https://www.hainbuch.com/fileadmin/Mediendatenbank/Deutsch/Produkte/Spannfutter/Backenfutter/InoFlex/Katalogauszug-InoFlex-4-Backenfutter.pdf)
 
 ### Toolroom CNC mill vertical
 
