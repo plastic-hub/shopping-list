@@ -27,25 +27,15 @@
 
 ### EDM
 
-### Grinder
-
-- [Ripollet - Suface Grinder](https://www.machinio.com/grinding-machines#quickview/46040071)
-
 ## Cutting
 
 ### Saws
 
 - [ES All](https://www.machinio.com/saws#results)
 
-### Shear
+### Press Brakes
 
-- [3m](https://www.machinio.com/shearing-equipment#quickview/51051162)
-
-### Plasma
-
-- [Old, HT](https://www.machinio.com/plasma-cutters#quickview/43442108)
-- [HT100d - 3k$](https://www.machinio.com/plasma-cutters#quickview/46345767)
-- [Table, new](https://www.surplex.com/en/m/unich-lxp-1530-cnc-plasma-cutting-machine-623161.html?utm_campaign=auction-feed&utm_source=machinio&utm_medium=referral)
+- [NEW | BCN](https://maquinariacarandell.weebly.com/uploads/1/1/8/4/118431239/plegadoras_electronicas_jms-jmv.pdf)
 
 ### Cutters
 
@@ -80,3 +70,19 @@
 
 
 ### Tapping
+
+
+---- Done ---- 
+
+- 2x welding tables
+- Surface grinder
+- 2x tool room mills
+- bigger lathe
+- compressor & filters
+- mobile hoist
+- surface plate
+- mag drill
+- cnc lathe
+- 2x drill press 
+- plasma table
+
