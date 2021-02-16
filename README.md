@@ -80,11 +80,3 @@
 
 
 ### Tapping
-
-## Educational/Office
-
-- @timberstar, if you need any books or whatever office stuff, add it here
-
-
-
-
