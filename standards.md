@@ -8,3 +8,6 @@
 
 [22000:2018](https://www.iso.org/standard/65464.html)
 
+### Plastic / Manufacturing
+
+- [ISO 17712:2013](https://www.iso.org/standard/62464.html)
